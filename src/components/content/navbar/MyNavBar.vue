@@ -125,4 +125,10 @@ export default {
   cursor: pointer;
   min-width: 100px;
 }
+
+.mid_slot div:hover{
+  background-color: var(--color-tint);
+  border-radius: 5px;
+  opacity: 80%;
+}
 </style>
