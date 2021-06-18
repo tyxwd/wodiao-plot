@@ -1,0 +1,95 @@
+.iconfont {
+    /*margin-left: 5px;*/
+    margin-right: 15px;
+}
+
+@font-face {
+    font-family: "iconfont"; /* Project id 2604802 */
+    src: url('//at.alicdn.com/t/font_2604802_otzbn0sjp.woff2?t=1623935182595') format('woff2'),
+    url('//at.alicdn.com/t/font_2604802_otzbn0sjp.woff?t=1623935182595') format('woff'),
+    url('//at.alicdn.com/t/font_2604802_otzbn0sjp.ttf?t=1623935182595') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-juxingshutu:before {
+    content: "\e624";
+}
+
+.icon-juxingshutu1:before {
+    content: "\e620";
+}
+
+.icon-xuritu1:before {
+    content: "\e674";
+}
+
+.icon-relitu:before {
+    content: "\e76c";
+}
+
+.icon-guanxitu:before {
+    content: "\e6de";
+}
+
+.icon-c-pinghangzuobiaotu:before {
+    content: "\e643";
+}
+
+.icon-leidatu:before {
+    content: "\e60d";
+}
+
+.icon-xiangxiantu1:before {
+    content: "\e621";
+}
+
+.icon-shutu:before {
+    content: "\e649";
+}
+
+.icon-sangjitu:before {
+    content: "\e67e";
+}
+
+.icon-sandiantu:before {
+    content: "\e606";
+}
+
+.icon-tubiaoxian_tongyong_tongji:before {
+    content: "\e697";
+}
+
+.icon-tubiao:before {
+    content: "\e600";
+}
+
+.icon-tubiaobeifen5:before {
+    content: "\e601";
+}
+
+.icon-xiangxiantu:before {
+    content: "\e8b6";
+}
+
+.icon-huitutiaosepan:before {
+    content: "\e60c";
+}
+
+.icon-bim_Yzhou:before {
+    content: "\e6ec";
+}
+
+.icon-bim_Xzhou:before {
+    content: "\e6eb";
+}
+
+.icon-biaoti:before {
+    content: "\e62b";
+}
